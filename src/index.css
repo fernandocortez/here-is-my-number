@@ -1,0 +1,12 @@
+:root {
+	line-height: 1.75;
+	font-size: 1.25em;
+	font-family: system-ui;
+}
+
+html {
+	max-width: 70ch;
+	padding: 3em 1em;
+	margin: auto;
+	color-scheme: light dark;
+}

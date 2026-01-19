@@ -1,0 +1,7 @@
+{
+	"name": "here-is-my-number",
+	"assets": {
+		"directory": "./dist",
+	},
+	"compatibility_date": "2025-12-11",
+}
